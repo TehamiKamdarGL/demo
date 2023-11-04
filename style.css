@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+}
+.logo{
+    background-image: url('download.png');
+    height: 100px;
+    width: 100px;
+    background-position: center;
+}
+ul{
+    display: flex;
+}
+li{
+    display:flex;
+    position: relative;
+    left: 150px; 
+}
+.link{
+    padding: 10px;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
