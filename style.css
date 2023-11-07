@@ -24,3 +24,12 @@ li{
     font-weight: bolder;
     font-size: 1.5rem;
 }
+.link{
+    padding: 10px;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
